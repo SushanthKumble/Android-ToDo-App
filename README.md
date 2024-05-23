@@ -79,4 +79,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Sushanth - sushanthkumble7@gmail.com
 
 
-This `README.md` should provide a comprehensive overview of your Android ToDo app and help users understand how to use it, install it, and contribute to it.  
