@@ -15,7 +15,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Databasehelper extends SQLiteOpenHelper {
+    //this is the comment that i have added
     private SQLiteDatabase db;
+
     private static final String DATABASE_NAME = "TODO_DATABASE";
     private static final String TABLE_NAME = "TODO_TABLE";
     private static final String COL_1 = "ID";

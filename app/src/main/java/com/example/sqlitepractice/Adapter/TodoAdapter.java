@@ -83,7 +83,7 @@ public class TodoAdapter extends RecyclerView.Adapter<TodoAdapter.MyViewHolder> 
     public void editItem(int position){
         ToDoModel item=mList.get(position);
 
-        //creating bundel to pass data between activity and fragment 0r activit
+        //creating bundel to pass data between activity and fragment 0r activity
 
         Bundle bundle=new Bundle();
         bundle.putInt("id",item.getId());
